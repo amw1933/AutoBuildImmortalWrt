@@ -32,6 +32,8 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-partexp luci-i18n-partexp-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-kucat"
 # 酷猫主题 by sirpdboy 
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-kucat-config_2.1.0-r20251117_all.ipk"
+# 酷猫主题 by sirpdboy 
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-kucat-config-zh-cn_0_all.ipk"
 # 进阶设置 by sirpdboy 
 # 当luci-app-advancedplus插件开启时 需排除冲突项 luci-app-argon-config和luci-i18n-argon-config-zh-cn 减号代表排除
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-advancedplus luci-i18n-advancedplus-zh-cn -luci-app-argon-config -luci-i18n-argon-config-zh-cn"
